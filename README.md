@@ -10,11 +10,7 @@ Allows for switching between magisk and rootless via OTA upgrades.
 
 ## Supported devices
 
-* Pixel 9 Pro
-* Pixel 6
-
-All other devices have been discontinued because the amount of GitHub actions minutes required for maintaining that 
-many devices exceed my spending limit.  
+* Pixel 9 Pro XL
 
 If you have the [Magisk preinit string](#magisk-preinit-strings) (see [.github/workflows/release-multiple.yaml](.github/workflows/release-multiple.yaml)) for your device, you can easily fork this repo and build your own OTAs.
 
